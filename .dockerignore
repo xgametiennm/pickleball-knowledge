@@ -1,0 +1,5 @@
+dist
+*.sh
+*.bat
+README.md
+.git
